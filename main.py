@@ -1,2 +1,2 @@
-print("Hello world!")
-print("Hello Git 5!")
+name = "Ярослав"
+age = "38"
